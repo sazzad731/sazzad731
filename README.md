@@ -2,7 +2,7 @@
 #### Web Developer
 I'm a Front End web developer who is passionate about making an error-free website with 100% client satisfaction. I love to solve coding problems. I am strategic goal-oriented and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with HTML, CSS, and javascript as well as Node.js.
 
-Skills: HTML/CSS/Bootstrap/JavaScript/jQuery/Sass/NodeJS
+Skills: HTML/CSS/Bootstrap/JavaScript/jQuery/Sass/Node.JS
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning JavaScript 
