@@ -5,7 +5,7 @@ I'm a Front End web developer who is passionate about making an error-free websi
 Skills: HTML/CSS/Bootstrap/JavaScript/jQuery/Sass/Node.JS
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on GitHub 
 
 
