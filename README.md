@@ -11,9 +11,22 @@ Currently exploring advanced frameworks and deploying full-featured projects.
 ---
 
 ## 🚀 What I'm Working On
-- 🌍 Exploring Next.js and TypeScript
-- 🧠 Creating an e-commerce project using Next.js
-- 🔍 Contributing to open-source MERN apps
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="middle">
+        - 🌍 Exploring Next.js and TypeScript<br>
+        - 🧠 Creating an e-commerce project using Next.js<br>
+        - 🔍 Contributing to open-source MERN apps
+      </td>
+      <td width="40%" valign="middle">
+        <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" 
+             alt="Working" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
