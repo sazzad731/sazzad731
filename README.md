@@ -1,38 +1,83 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://i.ibb.co.com/pvZ6LzkM/github-header-banner.png)
 # 👋 Hi, I'm Sazzad Hossen
-### 🌐 Full Stack Developer | MERN Stack Enthusiast
+### 🌐 Mearn Stack Developer | Full Stack Enthusiast
 
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate full-stack web developer who loves building scalable web apps.  
+I’m a passionate MERN-stack web developer who loves building scalable web apps.  
 Currently exploring advanced frameworks and deploying full-featured projects.
 
 ---
 
 ## 🚀 What I'm Working On
 - 🌍 Exploring Next.js and TypeScript
-- 🧠 Creating a project using Next.js
+- 🧠 Creating an e-commerce project using Next.js
 - 🔍 Contributing to open-source MERN apps
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
+<h3>Things I code with</h3>
+<p>
+  <!-- ReactJS -->
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
+<!-- MongoDB -->
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<!-- ExpressJS -->
+<img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+<!-- NodeJS -->
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+<!-- Firebase -->
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+<!-- Tailwind CSS -->
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<!-- TanStack Query -->
+<img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+
+<!-- Axios -->
+<img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+
+<!-- JWT -->
+<img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+
+<!-- Next.js -->
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+
+<!-- TypeScript -->
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sazzad-hossen731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossen731" height="30" width="40" /></a>
-</p>
-<br/>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br/>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad731&show_icons=true&locale=en&layout=compact" alt="sazzad731" /></p>
+<a href="https://www.linkedin.com/in/sazzad-hossen1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossen731" height="30" width="40" /></a>
+<h3 align="left">Or Contact: 01333401535</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad731&show_icons=true&locale=en" alt="sazzad731" /></p>
 <br/>
+<br/>
+<br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzad731&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sazzad731&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img width="600" src="https://streak-stats.demolab.com?user=sazzad731&theme=tokyonight&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    </td>
+    <td>
+      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad731&" alt="sazzad731" /></p>
+
