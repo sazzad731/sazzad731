@@ -1,15 +1,24 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h2 align="center">Hi 👋, I'm Sazzad Hossen</h2>
-<h1 align="center">A passionate REACT frontend developer</h1>
+# 👋 Hi, I'm Sazzad Hossen
+### 🌐 Full Stack Developer | MERN Stack Enthusiast
+
+---
+
+## 🧑‍💻 About Me
+I’m a passionate full-stack web developer who loves building scalable web apps.  
+Currently exploring advanced frameworks and deploying full-featured projects.
+
+---
+
+## 🚀 What I'm Working On
+- 🌍 Exploring Next.js and TypeScript
+- 🧠 Creating a project using Next.js
+- 🔍 Contributing to open-source MERN apps
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad731&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad731" /> </p>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **react, JavaScript, HTML, CSS**
-
-- 📫 How to reach me **sajjadho731@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
