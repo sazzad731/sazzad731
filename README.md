@@ -54,9 +54,29 @@ Currently exploring advanced frameworks and deploying full-featured projects.
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sazzad-hossen1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossen731" height="30" width="40" /></a>
-<h3 align="left">Or Contact: 01333401535</h3>
+<div style="font-family: Arial, sans-serif; color: #ffffff;">
+  <h3>Connect with me:</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="text-decoration: none; color: #0A66C2; font-size: 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle; margin-right: 8px;" />
+      LinkedIn Profile
+    </a>
+  </p>
+
+  <p>
+    <a href="https://wa.me/8801333401535" target="_blank" style="text-decoration: none; color: #25D366; font-size: 18px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="24" style="vertical-align: middle; margin-right: 8px;" />
+      WhatsApp
+    </a>
+  </p>
+
+  <p style="margin-top: 10px; color: #cccccc;">
+    📞 Or Contact: <a href="tel:+8801333401535" style="color: #ffffff; text-decoration: none;">+8801333401535</a>
+  </p>
+</div>
+
+
 
 <br/>
 <br/>
