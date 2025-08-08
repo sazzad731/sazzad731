@@ -105,7 +105,7 @@ Currently exploring advanced frameworks and deploying full-featured projects.
   </tr>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img width="600" src="https://streak-stats.demolab.com?user=sazzad731&theme=tokyonight&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img width="100%" src="https://streak-stats.demolab.com?user=sazzad731&theme=tokyonight&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     </td>
     <td>
       <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
