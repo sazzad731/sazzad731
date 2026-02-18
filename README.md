@@ -1,8 +1,11 @@
 ![MasterHead](https://i.ibb.co.com/pvZ6LzkM/github-header-banner.png)
-# 👋 Hi, I'm Sazzad Hossen
-### 🌐 Mearn Stack Developer | Full Stack Enthusiast
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sazzad Hossen
+======================================================================================================================================
 
----
+MERN Stack Developer
+--------------------
+
+
 
 ## 🧑‍💻 About Me
 I’m a passionate MERN-stack web developer who loves building scalable web apps.  
@@ -67,27 +70,11 @@ Currently exploring advanced frameworks and deploying full-featured projects.
 </p>
 
 
-<div style="font-family: Arial, sans-serif; color: #ffffff;">
-  <h3>Connect with me:</h3>
+### Socials
 
-  <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="text-decoration: none; color: #0A66C2; font-size: 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle; margin-right: 8px;" />
-      LinkedIn Profile
-    </a>
-  </p>
-
-  <p>
-    <a href="https://wa.me/8801333401535" target="_blank" style="text-decoration: none; color: #25D366; font-size: 18px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="24" style="vertical-align: middle; margin-right: 8px;" />
-      WhatsApp
-    </a>
-  </p>
-
-  <p style="margin-top: 10px; color: #cccccc;">
-    📞 Or Contact: <a href="tel:+8801333401535" style="color: #ffffff; text-decoration: none;">+8801333401535</a>
-  </p>
-</div>
+<p align="left"> <a href="https://www.github.com/sazzad731" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sazzad-hossen1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/sazzadhossen_27941" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/sajjad.hossen.3572847" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/sazzad731" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sazzad731?logo=github&style=for-the-badge&color=f97316&labelColor=831843" /></a>
 
 
 
