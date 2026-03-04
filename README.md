@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer
 --------------------
 
-
+</br>
 
 ## 🧑‍💻 About Me
 I’m a passionate MERN-stack web developer who loves building scalable web apps.  
 Currently exploring advanced frameworks and deploying full-featured projects.
 
----
+</br>
 
 ### ⚡ Quick Bits
 
@@ -30,13 +30,16 @@ Currently exploring advanced frameworks and deploying full-featured projects.
   </tr>
 </table>
 
----
+</br>
 
 ### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,nodejs,express,postgres,prisma,mongodb,firebase,git,figma,postman,vercel" alt="Tech Stack" />
 </div>
+
+</br>
+
 
 ### Socials
 
@@ -45,17 +48,18 @@ Currently exploring advanced frameworks and deploying full-featured projects.
   <img src="https://img.shields.io/github/followers/sazzad731?label=Follow%20on%20GitHub&style=social" alt="GitHub Followers" />
 </a>
 
-
+</br>
+</br>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazzad731&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad731&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazzad731&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sazzad731&layout=compact&theme=tokyonight" alt="Top Languages" width="40.2%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad731&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad731&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="90%" />
 </div>
 
 
