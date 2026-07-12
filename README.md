@@ -1,5 +1,5 @@
-![MasterHead](https://i.ibb.co.com/YmrgGrL/Gemini-Generated-Image-wyimlhwyimlhwyim.png)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sazzad Hossen
+![MasterHead](https://i.ibb.co.com/rfFx1y9r/Chat-GPT-Image-Jul-12-2026-10-38-10-PM.png)
+I am Sazzad Hossen
 ======================================================================================================================================
 
 MERN Stack Developer
