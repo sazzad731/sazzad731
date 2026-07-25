@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 675" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- পেছনের ব্যাকগ্রাউন্ড (আপাতত গ্রেডিয়েন্ট, পরে আমরা আসল ওয়ালপেপার বসাব) -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2a35" />
+      <stop offset="100%" stop-color="#4a3b42" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+
+  <!-- টপবার (মেনুবার) -->
+  <rect x="0" y="0" width="1200" height="30" fill="#1a1a24" fill-opacity="0.9"/>
+  <text x="20" y="20" font-family="monospace" font-size="14" fill="#a9b1d6">Wed 23 | 4:46 AM</text>
+
+  <!-- বাম পাশের বড় উইন্ডো (fastfetch) -->
+  <rect x="20" y="50" width="560" height="600" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#89b4fa" stroke-width="2"/>
+  
+  <!-- টার্মিনাল বাটন (লাল, হলুদ, সবুজ) -->
+  <circle cx="45" cy="75" r="7" fill="#f38ba8"/>
+  <circle cx="65" cy="75" r="7" fill="#f9e2af"/>
+  <circle cx="85" cy="75" r="7" fill="#a6e3a1"/>
+  
+  <!-- টার্মিনাল টেক্সট -->
+  <text x="35" y="125" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; fastfetch</text>
+</svg>
