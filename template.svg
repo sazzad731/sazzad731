@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 675" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 1000" width="100%" xmlns="http://www.w3.org/2000/svg">
   <!-- পেছনের ব্যাকগ্রাউন্ড (আপাতত গ্রেডিয়েন্ট, পরে আমরা আসল ওয়ালপেপার বসাব) -->
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -6,7 +6,7 @@
       <stop offset="100%" stop-color="#4a3b42" />
     </linearGradient>
   </defs>
-  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="1000" fill="url(#bg)"/>
 
   <!-- টপবার (মেনুবার) -->
   <rect x="0" y="0" width="1200" height="30" fill="#1a1a24" fill-opacity="0.9"/>
