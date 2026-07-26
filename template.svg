@@ -44,9 +44,9 @@
   <rect x="600" y="370" width="580" height="180" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#a6e3a1" stroke-width="2"/>
   
   <text x="615" y="445" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; github stats</text>
-  <text x="615" y="480" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: 1,278</text>
-  <text x="615" y="500" font-family="monospace" font-size="14" fill="#f9e2af">Pull Requests: 136</text>
-  <text x="615" y="520" font-family="monospace" font-size="14" fill="#fab387">Issues: 67</text>
+  <text x="615" y="480" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: {{COMMITS}}</text>
+  <text x="615" y="500" font-family="monospace" font-size="14" fill="#f9e2af">Pull Requests: {{PRS}}</text>
+  <text x="615" y="520" font-family="monospace" font-size="14" fill="#fab387">Issues: {{ISSUES}}</text>
   <!-- কন্ট্রিবিউশন বার (আমরা স্ট্যাটিক বার দেখাচ্ছি) -->
   <text x="615" y="540" font-family="monospace" font-size="14" fill="#cdd6f4">Contributions: 92%</text>
   <rect x="760" y="530" width="300" height="12" rx="6" fill="#313244"/>
