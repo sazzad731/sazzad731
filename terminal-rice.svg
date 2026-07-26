@@ -1,0 +1,108 @@
+<svg viewBox="0 0 1200 675" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- পেছনের ব্যাকগ্রাউন্ড (আপাতত গ্রেডিয়েন্ট, পরে আমরা আসল ওয়ালপেপার বসাব) -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2a35" />
+      <stop offset="100%" stop-color="#4a3b42" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+
+  <!-- টপবার (মেনুবার) -->
+  <rect x="0" y="0" width="1200" height="30" fill="#1a1a24" fill-opacity="0.9"/>
+  <text x="20" y="20" font-family="monospace" font-size="14" fill="#a9b1d6">Wed 23 | 4:46 AM</text>
+
+  <!-- বাম পাশের বড় উইন্ডো (fastfetch) -->
+  <rect x="20" y="50" width="560" height="600" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#89b4fa" stroke-width="2"/>
+  
+  <!-- টার্মিনাল বাটন (লাল, হলুদ, সবুজ) -->
+  <circle cx="45" cy="75" r="7" fill="#f38ba8"/>
+  <circle cx="65" cy="75" r="7" fill="#f9e2af"/>
+  <circle cx="85" cy="75" r="7" fill="#a6e3a1"/>
+  
+  <!-- টার্মিনাল টেক্সট -->
+  <text x="35" y="125" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; fastfetch</text>
+
+  <!-- ডানপাশের টেক স্ট্যাক উইন্ডো (cat README.md) -->
+  <rect x="600" y="50" width="580" height="300" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#f5c2e7" stroke-width="2"/>
+  
+  <text x="615" y="125" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; cat README.md</text>
+  <text x="615" y="160" font-family="sans-serif" font-size="28" font-weight="bold" fill="#cdd6f4">Hi there <tspan fill="#f9e2af">👋</tspan></text>
+  <text x="615" y="200" font-family="sans-serif" font-size="22" font-weight="bold" fill="#cdd6f4">I'm <tspan fill="#89b4fa">Sazzad Hossen</tspan></text>
+  <text x="615" y="235" font-family="monospace" font-size="14" fill="#a6adc8">Full Stack Developer | MERN Specialist</text>
+
+  <!-- টেক স্ট্যাক আইকন (আমরা শুধু placeholder টেক্সট দিচ্ছি, পরে আইকন অ্যাড করব) -->
+  <text x="615" y="275" font-family="monospace" font-size="16" fill="#a6e3a1">&gt; tech stack</text>
+  <!-- Placeholder icons -->
+  <circle cx="635" cy="305" r="15" fill="#1e1e2e" stroke="#cdd6f4" stroke-width="1"/>
+  <circle cx="675" cy="305" r="15" fill="#1e1e2e" stroke="#cdd6f4" stroke-width="1"/>
+  <circle cx="715" cy="305" r="15" fill="#1e1e2e" stroke="#cdd6f4" stroke-width="1"/>
+  <circle cx="755" cy="305" r="15" fill="#1e1e2e" stroke="#cdd6f4" stroke-width="1"/>
+
+
+  <!-- ডানপাশের মাঝের উইন্ডো (github stats) -->
+  <rect x="600" y="370" width="580" height="180" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#a6e3a1" stroke-width="2"/>
+  
+  <text x="615" y="445" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; github stats</text>
+  <text x="615" y="480" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: 2085</text>
+  <text x="615" y="500" font-family="monospace" font-size="14" fill="#f9e2af">Pull Requests: 136</text>
+  <text x="615" y="520" font-family="monospace" font-size="14" fill="#fab387">Issues: 22</text>
+  <!-- কন্ট্রিবিউশন বার (আমরা স্ট্যাটিক বার দেখাচ্ছি) -->
+  <text x="615" y="540" font-family="monospace" font-size="14" fill="#cdd6f4">Contributions: 92%</text>
+  <rect x="760" y="530" width="300" height="12" rx="6" fill="#313244"/>
+  <rect x="760" y="530" width="276" height="12" rx="6" fill="#a6e3a1"/>
+
+  <!-- নিচের Pinned Projects উইন্ডো -->
+  <rect x="20" y="670" width="1160" height="300" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#89b4fa" stroke-width="2"/>
+  
+  <text x="40" y="710" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; pinned projects</text>
+
+  <!-- প্রজেক্ট কার্ড ১: FoodHub -->
+  <rect x="40" y="740" width="350" height="110" rx="6" fill="#181825" stroke="#313244" stroke-width="1"/>
+  <text x="60" y="775" font-family="monospace" font-size="16" font-weight="bold" fill="#89b4fa">FoodHub</text>
+  <text x="60" y="805" font-family="sans-serif" font-size="13" fill="#a6adc8">Full-featured meal ordering</text>
+  <text x="60" y="825" font-family="sans-serif" font-size="13" fill="#a6adc8">platform with role management</text>
+  <circle cx="65" cy="855" r="5" fill="#3178c6"/>
+  <text x="80" y="860" font-family="sans-serif" font-size="12" fill="#cdd6f4">TypeScript</text>
+
+  <!-- প্রজেক্ট কার্ড ২: HostelBites -->
+  <rect x="420" y="740" width="350" height="110" rx="6" fill="#181825" stroke="#313244" stroke-width="1"/>
+  <text x="440" y="775" font-family="monospace" font-size="16" font-weight="bold" fill="#89b4fa">HostelBites</text>
+  <text x="440" y="805" font-family="sans-serif" font-size="13" fill="#a6adc8">Meal management platform</text>
+  <text x="440" y="825" font-family="sans-serif" font-size="13" fill="#a6adc8">with Stripe integration</text>
+  <circle cx="445" cy="855" r="5" fill="#f1e05a"/>
+  <text x="460" y="860" font-family="sans-serif" font-size="12" fill="#cdd6f4">JavaScript</text>
+
+  <!-- প্রজেক্ট কার্ড ৩: Stock Flow -->
+  <rect x="800" y="740" width="350" height="110" rx="6" fill="#181825" stroke="#313244" stroke-width="1"/>
+  <text x="820" y="775" font-family="monospace" font-size="16" font-weight="bold" fill="#89b4fa">Stock Flow</text>
+  <text x="820" y="805" font-family="sans-serif" font-size="13" fill="#a6adc8">Inventory &amp; stock management</text>
+  <text x="820" y="825" font-family="sans-serif" font-size="13" fill="#a6adc8">system with real-time updates</text>
+  <circle cx="825" cy="855" r="5" fill="#3178c6"/>
+  <text x="840" y="860" font-family="sans-serif" font-size="12" fill="#cdd6f4">TypeScript</text>
+
+  <!-- বামপাশের উইন্ডোর প্রোফাইল ডিটেইলস (Avatar & Info) -->
+  
+  <!-- Profile Image (এখানে ডিফল্ট হিসেবে একটি মেইল রোবট অবতার দেওয়া হলো) -->
+  <clipPath id="circle-clip">
+    <circle cx="300" cy="220" r="90" />
+  </clipPath>
+  <!-- আপনি চাইলে href-এর ভেতরের লিংক পরিবর্তন করে আপনার নিজের ছবির ডিরেক্ট লিংক দিতে পারেন -->
+  <image x="210" y="130" width="180" height="180" href="https://robohash.org/sazzad?set=set1" clip-path="url(#circle-clip)" />
+  <!-- ছবির চারপাশের বর্ডার -->
+  <circle cx="300" cy="220" r="95" fill="none" stroke="#f5c2e7" stroke-width="3"/>
+  
+  <!-- Name & Username -->
+  <text x="300" y="355" font-family="sans-serif" font-size="28" font-weight="bold" fill="#cdd6f4" text-anchor="middle">Sazzad Hossen</text>
+  <text x="300" y="385" font-family="monospace" font-size="16" fill="#a6adc8" text-anchor="middle">@sazzad731</text>
+  
+  <!-- Contact Info -->
+  <text x="40" y="440" font-family="monospace" font-size="15" fill="#f38ba8">📍 Dhaka, Bangladesh</text>
+  <text x="40" y="475" font-family="monospace" font-size="15" fill="#a6e3a1">✉️ sazzad731@gmail.com</text>
+  <text x="40" y="510" font-family="monospace" font-size="15" fill="#89b4fa">🔗 https://sazzad.dev</text>
+  
+  <!-- About Me Section -->
+  <text x="40" y="560" font-family="monospace" font-size="16" fill="#cdd6f4">&gt; cat about.me</text>
+  <rect x="40" y="575" width="520" height="50" rx="4" fill="#181825" stroke="#313244" stroke-width="1"/>
+  <text x="50" y="605" font-family="sans-serif" font-size="14" fill="#a6adc8">Passionate about building scalable web applications</text>
+</svg>
