@@ -19,7 +19,7 @@
   <circle cx="85" cy="75" r="7" fill="#a6e3a1"/>
 
   <!-- বামপাশে: আপনার দেওয়া কাস্টম ASCII আর্ট -->
-  <g transform="translate(40, 95)" font-family="monospace" font-size="8" fill="#89b4fa">
+  <g transform="translate(40, 95)" font-family="monospace" font-size="9" fill="#89b4fa">
     <text x="0" y="0" xml:space="preserve">.......:-=---::::-==+=--...:-++*+----=::+#%%*:.....</text>
     <text x="0" y="8" xml:space="preserve">.......:===---::-=---==-::--=+**-:---=::*%%%#=.....</text>
     <text x="0" y="16" xml:space="preserve">.......:===---::.:::::::::.:=**#:.:::::-#%%%*:.....</text>
