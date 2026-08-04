@@ -88,7 +88,7 @@
   <!-- github stats উইন্ডো -->
   <rect x="20" y="430" width="560" height="180" rx="8" fill="#1e1e2e" fill-opacity="0.8" stroke="#a6e3a1" stroke-width="2"/>
   <text x="40" y="475" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; github stats</text>
-  <text x="40" y="510" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: 2100</text>
+  <text x="40" y="510" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: 2115</text>
   <text x="40" y="530" font-family="monospace" font-size="14" fill="#f9e2af">Pull Requests: 136</text>
   <text x="40" y="550" font-family="monospace" font-size="14" fill="#fab387">Issues: 22</text>
   <text x="40" y="570" font-family="monospace" font-size="14" fill="#cdd6f4">Contributions: 92%</text>
