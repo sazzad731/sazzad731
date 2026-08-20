@@ -90,7 +90,7 @@
   <text x="40" y="475" font-family="monospace" font-size="18" fill="#cdd6f4">&gt; github stats</text>
   <text x="40" y="510" font-family="monospace" font-size="14" fill="#a6e3a1">Total Commits: 2130</text>
   <text x="40" y="530" font-family="monospace" font-size="14" fill="#f9e2af">Pull Requests: 136</text>
-  <text x="40" y="550" font-family="monospace" font-size="14" fill="#fab387">Issues: 24</text>
+  <text x="40" y="550" font-family="monospace" font-size="14" fill="#fab387">Issues: 22</text>
   <text x="40" y="570" font-family="monospace" font-size="14" fill="#cdd6f4">Contributions: 92%</text>
   <rect x="220" y="560" width="300" height="12" rx="6" fill="#313244"/>
   <rect x="220" y="560" width="276" height="12" rx="6" fill="#a6e3a1"/>
